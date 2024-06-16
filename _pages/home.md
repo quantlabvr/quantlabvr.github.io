@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Quantlab Verona"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Quantitative Finance Group of the University of Verona"
 sitemap: false
 permalink: /
 ---
